@@ -1,0 +1,2 @@
+rootProject.name='mvvm-livedata-room'
+include ':app'
